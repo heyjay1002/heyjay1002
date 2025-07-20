@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 
-Hi.
+Hi, I'm Jiyoun Kim.
+
+- Currently learning **Python**, **C++**, and **ROS2**
+- Interested in **robotics**, especially **bipedal and quadrupedal robots**
+- Building projects involving **embedded systems**, **control algorithms**, **deep learning**, and **simulation**
+- Background in **mechanical engineering** and **biomechanics**
+
+I'd be delighted to connect and build something amazing together!
+
 
 <h3 align="center">🚀 Tech Stack</h3>
 
