@@ -3,7 +3,7 @@
 Hi, I'm Jiyoun Kim.
 
 - Currently learning **Python**, **C++**, and **ROS2**
-- Interested in **robotics**, especially **bipedal and quadrupedal robots**
+- Interested in **robotics**, especially **autonomous mobile robots and bipedal robots**
 - Building projects involving **embedded systems**, **control algorithms**, **deep learning**, and **simulation**
 - Background in **mechanical engineering** and **biomechanics**
 
